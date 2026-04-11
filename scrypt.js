@@ -21,6 +21,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
               </div>
               <div class="modal-body">
                 <p>${item.nota}</p>
+                <img src="${item.src}">
               </div>
             </div>
           </div>
